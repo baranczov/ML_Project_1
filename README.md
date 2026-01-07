@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Classification-green)
-![Business Analytics](https://img.shields.io/badge/Analytics-Churn-red)
-![CatBoost](https://img.shields.io/badge/Model-CatBoost-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Описание проекта
